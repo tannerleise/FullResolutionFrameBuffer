@@ -1,0 +1,1 @@
+The screenshot shows the signaltap for the board. It shows the go bit going high at the top of the signals. Underneath it shows the write data to the fifo. As seen in the screenshot, the data is all 1's in the write data 0:7. For my code, this indicates a color red which is displayed on the board.
